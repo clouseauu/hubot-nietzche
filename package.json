@@ -1,0 +1,29 @@
+{
+  "name": "hubot-nietzche",
+  "version": "0.0.1",
+  "description": "A hoobot plugin for fetching Nietzche quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "script/test"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "nietzche"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clouseauu/hubot-nietzche.git"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "author": "Daniel Angel Bradford",
+  "license": "MIT"
+}
