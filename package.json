@@ -1,6 +1,6 @@
 {
   "name": "hubot-nietzche",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A hoobot plugin for fetching Nietzche quotes",
   "main": "index.js",
   "scripts": {

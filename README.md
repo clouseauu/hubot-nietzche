@@ -12,7 +12,7 @@ In hubot project repo, run:
 npm install hubot-nietzche
 ```
 
-Then add **hubot-github-nietzche** to your `external-scripts.json`:
+Then add **hubot-nietzche** to your `external-scripts.json`
 
 ## Hubot Commands
 ```
